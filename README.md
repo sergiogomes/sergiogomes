@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there! 👋
+
+- 🔭 I’m currently working on React projects. Stack:
+  - React
+  - NextJS
+  - React Native
+  - Jest
+- 📫 Reach me on: sergiopgomes92@gmail.com
+- 🖥 Check out my web portfolio on [Behance]
+(https://www.behance.net/sergio-gomes)
 
 <!--
 **sergiogomes/sergiogomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
