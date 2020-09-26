@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on React projects. Stack:
   - React
   - NextJS
-  - React Native
   - Jest
 - 📫 Reach me on: sergiopgomes92@gmail.com
 - 🖥 Check out my web portfolio on [Behance](https://www.behance.net/sergio-gomes)
