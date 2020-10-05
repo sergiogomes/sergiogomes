@@ -1,9 +1,10 @@
 ### Hello there! 👋
 
-- 🔭 I’m currently working on React projects. Stack:
+- 🔭 I’m currently working on React and Node projects. Stack:
   - React
-  - NextJS
+  - Next
   - Jest
+  - Node
 - 📫 Reach me on: sergiopgomes92@gmail.com
 - 🖥 Check out my web portfolio on [Behance](https://www.behance.net/sergio-gomes)
 
