@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on React and Node projects. Stack:
   - React
+  - Redux
   - Next
   - Jest
   - Node
