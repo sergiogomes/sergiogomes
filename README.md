@@ -12,7 +12,8 @@
 I have been working with software since 2011, and I am always improving by studying new languages, what problems they solve, and how much they can improve my productivity.
 I am a Full Stack Engineer (front-end heavier) focused on React and Node.
 
-“You can’t manage what you can’t measure.” - Drucker
+> “You can’t manage what you can’t measure.” - Drucker
+
 The tools I use to continuously evaluate my performance are Wakatime and Toggl. In this way, I am moved to deliver high-quality apps on the results' pursuit.
 
 I’m a very calm, reliable, and easygoing person. I make careful decisions and have a flawless execution covered by a lot of testing. Always willing to help my teammates.
