@@ -1,11 +1,6 @@
 ### Hello there! 👋
 
-- 🔭 I’m currently working on React and Node projects. Stack:
-  - React
-  - Redux
-  - Next
-  - Jest
-  - Node
+- 🔭 I'm currently working mostly on Vue and Next projects
 - 📫 Reach me on: sergiopgomes92@gmail.com
 - 🖥 Check out my web portfolio on [Behance](https://www.behance.net/sergio-gomes)
 
