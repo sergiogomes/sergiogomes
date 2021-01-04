@@ -5,7 +5,7 @@
 - 🖥 Check out my web portfolio on [Behance](https://www.behance.net/sergio-gomes)
 
 I have been working with software since 2011, and I am always improving by studying new languages, what problems they solve, and how much they can improve my productivity.
-I am a Full Stack Engineer (front-end heavier) focused on React and Node.
+I am a Full Stack Engineer (front-end heavier).
 
 > “You can’t manage what you can’t measure.” - Drucker
 
