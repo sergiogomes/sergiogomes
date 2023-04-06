@@ -4,6 +4,10 @@
 - 📫 Reach me on: sergiopgomes92@gmail.com
 - 🖥 Check out my web portfolio on [Behance](https://www.behance.net/sergio-gomes)
 
+[![wakatime](https://wakatime.com/badge/user/4d75b403-9976-4dad-86b5-5d2f55fe6075.svg)](https://wakatime.com/@4d75b403-9976-4dad-86b5-5d2f55fe6075)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@osergiogomess/cc9b4a63-b8da-4e11-990b-f0a9a51bf1b7.png" /></a>
+
 I have been working with software since 2011, and I am always improving by studying new languages, what problems they solve, and how much they can improve my productivity.
 I am a Senior Full Stack Engineer (Node, Nest, React, Next, Vue, Nuxt).
 I am also helping other developers grow and reach their next level.
@@ -72,7 +76,6 @@ In addition, I like reading books, music, traveling, video games, movies, and I 
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-![My Languages over Last 7 Days, updated daily](https://wakatime.com/share/embeddable/sergiogomes/5b51cb65-24da-4715-9496-9769944b07a0.svg)
 
 <!--
 **sergiogomes/sergiogomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
