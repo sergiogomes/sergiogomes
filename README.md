@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-- 🔭 I'm currently working mostly on Vue and Next projects
+- 🔭 I'm currently working mostly on Vue/Nuxt and React/Next projects
 - 📫 Reach me on: sergiopgomes92@gmail.com
 - 🖥 Check out my web portfolio on [Behance](https://www.behance.net/sergio-gomes)
 
@@ -14,12 +14,12 @@ I am also helping other developers grow and reach their next level.
 
 > “You can’t manage what you can’t measure.” - Drucker
 
-The tools I use to continuously evaluate my performance are Wakatime and Toggl. In this way, I am moved to deliver high-quality apps on the results' pursuit.
+The tool I use to evaluate my performance continuously is Wakatime. In this way, I am moved to deliver high-quality apps on the results' pursuit.
 
 I’m a very calm, reliable, and easygoing person. I make careful decisions and have a flawless execution covered by a lot of testing. Always willing to help my teammates.
 My most important values are God, Family, and Health.
 
-In addition, I like reading books, music, traveling, video games, movies, and I play the piano as a hobby.
+In addition, I like reading books, music, and traveling, and I play the piano as a hobby.
 
 ### Stacks 🖥
 
